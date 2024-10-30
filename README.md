@@ -1,4 +1,11 @@
-## Hi there 👋
+![Github banner](https://github.com/user-attachments/assets/dfdfc5fe-1529-471c-a1d1-0f89510e6b44)
+
+# Hello there, I'm Manu!
+
+I'm currently setting everything up, give me a few moments 🙃
+
+[![Linkedin](https://github.com/user-attachments/assets/c5982112-4047-43f6-845a-6932ba607650)](https://linkedin.com/in/egeldreich)
+
 
 <!--
 **EGeldreich/Egeldreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
