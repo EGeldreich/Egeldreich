@@ -1,23 +1,19 @@
 ![Github banner](https://github.com/user-attachments/assets/dfdfc5fe-1529-471c-a1d1-0f89510e6b44)
 
-# Hello there, I'm Manu!
+# Welcome to my training ground!
+## I'm Manu, let's work together.
+ 
+I'm currently a trainee to become a Fullstack Developer. 👾  
+Juggling one huge project for my final exam, and loads of smaller ones to understand core ideas. 📚  
 
-I'm currently setting everything up, give me a few moments 🙃
+- 🌱 Currently learning JS & PHP
+- 🧑‍💻 Always room to grow for HTML & CSS
+- 🎥 Former Motion Designer
+- 🔊 Techno enjoyer
+- 👋 Looking for an internship march 2025
+- 📧 Reach me at [egeldreich@gmail.com](mailto:egeldreich@gmail.com)
 
-[![Linkedin](https://github.com/user-attachments/assets/c5982112-4047-43f6-845a-6932ba607650)](https://linkedin.com/in/egeldreich)
 
+The end goal is Eco-responsible Creative Developer, Awwwards here I come! ✨
 
-<!--
-**EGeldreich/Egeldreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![logo-linkedin](https://github.com/user-attachments/assets/3191b186-6aee-4441-bff9-c856ad51a227)](https://linkedin.com/in/egeldreich)
