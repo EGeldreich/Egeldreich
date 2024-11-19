@@ -16,4 +16,4 @@ Juggling one huge project for my final exam, and loads of smaller ones to unders
 
 The end goal is Eco-responsible Creative Developer, Awwwards here I come! ✨
 
-[![logo-linkedin](https://github.com/user-attachments/assets/3191b186-6aee-4441-bff9-c856ad51a227)](https://linkedin.com/in/egeldreich)
+Connect with me on [LinkedIn!](https://linkedin.com/in/egeldreich)
